@@ -17,18 +17,16 @@ A Computer Enginer with a fundamentals-first approach to software engineering. S
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratikk404&theme=onedark&hide_border=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Pratikk404&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Pratikk404&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+## ✍️ Random Dev Quote
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-### 🔝 Top Contributed Repo
-![](https://github-readme-stats.vercel.app/api?username=Pratikk404&show_icons=true&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratikk404&layout=compact&theme=tokyonight)
-![](https://streak-stats.demolab.com?user=Pratikk404&theme=tokyonight)
-
+## 🔝 GitHub Activity Overview
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pratikk404&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratikk404&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Pratikk404&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Pratikk404&icon=4&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Profile Views](https://visitcount.itsvg.in/api?id=Pratikk404&icon=4&color=3)
