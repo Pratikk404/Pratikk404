@@ -10,11 +10,7 @@ A Computer Enginer with a fundamentals-first approach to software engineering. S
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pratikk404&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)
-
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Pratikk404&theme=onedark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratikk404&theme=onedark&hide_border=false&layout=compact)
 
 ## ✍️ Random Dev Quote
 <p align="center">
