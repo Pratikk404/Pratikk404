@@ -20,11 +20,3 @@ A Computer Enginer with a fundamentals-first approach to software engineering. S
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
 </p>
-
-## 📊 GitHub Overview
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Pratikk404&theme=tokyonight)
-
-![Streak](https://streak-stats.demolab.com?user=Pratikk404&theme=tokyonight)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratikk404&layout=compact&theme=tokyonight)
