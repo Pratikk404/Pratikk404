@@ -19,7 +19,10 @@ I am a Computer Engineering student at Mumbai University<br>with a strong academ
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Pratikk404&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-readme-stats.vercel.app/api?username=Pratikk404&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratikk404&layout=compact&theme=tokyonight)
+![](https://streak-stats.demolab.com?user=Pratikk404&theme=tokyonight)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Pratikk404&icon=4&color=3)](https://visitcount.itsvg.in)
