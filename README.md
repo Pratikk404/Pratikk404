@@ -2,6 +2,13 @@
 Computer Engineering student focused on core software engineering and backend systems. Strong in Java, C, DSA, with experience in Spring Boot, SQL, and building clean, maintainable web applications using HTML, CSS, and JavaScript.
 Interested in system design, cloud infrastructure, and scalable backend development, with an emphasis on clarity, reliability, and deep system understanding.
 
+## 🎓 Education
+
+**Bachelor of Engineering (Computer Engineering)**  
+Mumbai University  
+CGPA (till now): **9.22**
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-kalambe-4492a036b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kalambepratik29@gmail.com) 
 
