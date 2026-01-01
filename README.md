@@ -1,6 +1,6 @@
 # 🧩 About Me:
-A Computer Enginer with a fundamentals-first approach to software engineering. Strong in Java, C, data structures, backend development with Spring Boot, SQL, and algorithmic problem solving. Experienced in building and deploying clean, responsive web projects using HTML, CSS, and JavaScript, with structured version control on GitHub. Focused on clarity, maintainability, and deep system understanding to adapt in a rapidly evolving tech landscape.
-
+Computer Engineering student focused on core software engineering and backend systems. Strong in Java, C, DSA, with experience in Spring Boot, SQL, and building clean, maintainable web applications using HTML, CSS, and JavaScript.
+Interested in system design, cloud infrastructure, and scalable backend development, with an emphasis on clarity, reliability, and deep system understanding.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-kalambe-4492a036b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kalambepratik29@gmail.com) 
