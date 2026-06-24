@@ -5,7 +5,7 @@ Interested in system design, cloud infrastructure, and scalable backend developm
 ## 🎓 Education
 
 **Bachelor of Engineering (Computer Engineering)**  
-Mumbai University, CGPA : 8.96 ( till now )
+Mumbai University, CGPA : 9.04 ( till now )
 
 
 ## 🌐 Socials:
